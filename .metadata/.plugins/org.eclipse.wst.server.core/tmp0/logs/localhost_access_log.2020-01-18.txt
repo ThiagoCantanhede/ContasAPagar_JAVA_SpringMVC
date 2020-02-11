@@ -1,0 +1,8 @@
+127.0.0.1 - - [18/Jan/2020:10:52:52 -0300] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:52:53 -0300] "GET /contas/WEB-INF/views/conta/lista.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:53:38 -0300] "GET /contas/listaconta HTTP/1.1" 200 2510
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:53:38 -0300] "GET /favicon.ico HTTP/1.1" 404 716
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:54:01 -0300] "GET /contas/adicionaConta HTTP/1.1" 500 3327
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:54:35 -0300] "GET /contas/form HTTP/1.1" 200 571
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:54:49 -0300] "POST /contas/adicionaConta HTTP/1.1" 200 167
+0:0:0:0:0:0:0:1 - - [18/Jan/2020:10:54:52 -0300] "GET /contas/listaconta HTTP/1.1" 200 2848
